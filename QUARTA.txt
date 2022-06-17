@@ -1,0 +1,11 @@
+Considerando as situações:
+
+1) Ambos os veículos sem parar para pedágio: O carro estária mais próximo devido a sua velocidade constate ser maior que a do caminhão.
+2) O caminhão parando 1 vez no pedágio de 5 minutos: Já que o caminhão irá ficar parado por 5 minutos, o carro irá ter uma vantagem de X quilômetros durante esse tempo. Tal X é dado pela seguinte regra de 3:
+	60 min   é percorrido 110km/h
+	5 min  é percorrido X
+	X = 9,1
+
+Logo o carro estará mais próximo.
+
+3) O caminhão parando 2 vezes no pedágio de 5 minutos: O carro teria a vantagem de 2X quilômetros. Tal X é dado no item 2.
